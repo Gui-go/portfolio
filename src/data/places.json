@@ -1,0 +1,177 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+      "type": "name",
+      "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 1,
+          "NAME": "Palhoça, SC, Brazil",
+          "DESCRIPTION": "The city of Palhoça is probably the one place to call home. Even though I've lived in several houses around the city and in the neighbor cities of São José and Florianóplis as well, Palhoça is where I grew up."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-48.669186, -27.642560]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 1,
+          "NAME": "Dublin, Ireland.",
+          "DESCRIPTION": "I have special feelings for this place for I have lived in Bluebell, Dublin, for one year of my life (mar, 2014 - mar, 2015). It was a great expirience! Wanna go back there some day to visit and revive the good memories."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-6.333374, 53.331980]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 1,
+          "NAME": "UFSC - Universidade Federal de Santa Catarina",
+          "DESCRIPTION": "UFSC - Universidade Federal de Santa Catarina - is to place where I graduated in Economic Sciences. It's a great deal to get into this university around here, since every year it is among the Top 10 universities of latin america and it's totally free!"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-48.521720, -27.599046]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 1,
+          "NAME": "Aquarela Advanced Analytics",
+          "DESCRIPTION": "Aquarela is the place where I am developing the most. Such a good place to evolve. We are a data anlytics firm, deeply involved with the Brazilian market, using modern algorithms to get us furthur in productivity."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-48.508472, -27.571031]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 1,
+          "NAME": "Beira mar Skatepark",
+          "DESCRIPTION": "I could very well call this place home, since I spent so many days in here. It is the place where I learnt how to persuit my goals as a skater. I keep practicing, practicing, practicing... aiming my goal... and when I finally feel ready, I that sure shot!"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-48.610263, -27.602727]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 1,
+          "NAME": "Balneário Camboriú City",
+          "DESCRIPTION": "I included this place since I spent many summers in here. It's a huge city!! Not extensivly, but high up! Buildings here are increadibly tall. My Aunt/Godmother lives here, so I also have good memories in here. A nice place to visit."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-48.632181, -26.986892]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 1,
+          "NAME": "Porto, Portugal",
+          "DESCRIPTION": "One of my best trips in Europe. Even though I didn't visit any turist sight seeing places, it sure was a good crack. I went there with a good friend of mine, who is Portuguese, and visited his friends, some bars and forests. People there are really welcoming, I felt at home :)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-8.629352, 41.157698]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 1,
+          "NAME": "Barcelona, Espanha",
+          "DESCRIPTION": "In 2014, I went to Barcelona to skate. It was dream coming true. Barcelona is one of the capitals of skateboarding, there are many great spots all around the city. 5 days was not enough to check all the spots, I will have to go back there some day soon and check it out again."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.174965, 41.403988]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 1,
+          "NAME": "Moscow, Russia",
+          "DESCRIPTION": "In 2015, I went for a walk in Moscow. It sure was nice to get to know that city, such a cultural place. Next time I am gonna plan it a bit better."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [37.622557, 55.753488]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 1,
+          "NAME": "London, England",
+          "DESCRIPTION": "In 2014, I went to London, England, with a good friend of mine. It's a great place, full of culture. So much to see, not enough time spent, though. Still, it was great to see that in person. I was really young at that time, wanna check it out again now that I am more mature."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-0.127539, 51.507318]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 1,
+          "NAME": "Edinburgh, Scotland",
+          "DESCRIPTION": "In 2014, I went to Edinburgh for a quick trip with a friend. He went to Glasgow later and I stayed at Edinburgh. It was kind of a depressive trip cuz I wasn't sure at that time what I was doing with my life. I was visiting all those cool places, but always with that thought in the back of my mind: 'What now?'. Months later I come back to Brazil (from Ireland) and eventually started studying Economics and Data Sciencs, which has changed it all."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-3.198290, 55.948603]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 1,
+          "NAME": "Amsterdam, Netherlands",
+          "DESCRIPTION": "Ahhh, Amsterdam. That's nice place to party! I went there a couple of times with some friends. Enjoied it with them and all, but I wanna go there someday again to check the arts and museums."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [4.891051, 52.373132]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 1,
+          "NAME": "Rio, Brazil",
+          "DESCRIPTION": "Rio was an important step in the middle of my major in economics. I went there to present an academic work (OSESC) at the III SER (Seminário de Estatística com R). It was really nice to get to know such a beautiful city in these conditions, I felt fulfilled somehow. After that, my carrer as a Data Scientist began, I could say."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-43.155395, -22.948893]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 1,
+          "NAME": "Belfast, Northern Ireland",
+          "DESCRIPTION": "Quick car trip into Belfast, Northern Ireland, then later to cliffs of moher and after back to the country side of Ireland. I so young and naive back then hahaa."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-5.910364, 54.607913]
+        }
+      }
+    ]
+  }

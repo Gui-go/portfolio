@@ -1,0 +1,32 @@
+[
+    {
+        "artid": "art1",
+        "artlink": "/articles/art1",
+        "artimg": "art1.jpg",
+        "imgalt": "First image",
+        "arttitle": "First article",
+        "artdesc": "primeiro artigo. Blablablaaaaaaaa",
+        "artauthor": "Author: Guilherme Viegas",
+        "artdate": "Date: 01/07/2020"
+    },
+    {
+        "artid": "art2",
+        "artlink": "/articles/art2",
+        "artimg": "art2.jpg",
+        "imgalt": "Second image",
+        "arttitle": "Second article",
+        "artdesc": "Segundo artigo. Ta tudo bem feitinho, man. Tudo feito de modo a escalonar e segundo as boas práticas",
+        "artauthor": "Author: Guilherme Viegas",
+        "artdate": "Date: 01/08/2020"
+    },
+    {
+        "artid": "art3",
+        "artlink": "/articles/art3",
+        "artimg": "art2.jpg",
+        "imgalt": "Third image",
+        "arttitle": "Third article",
+        "artdesc": "Por ultimo, mas nao menos importante, o ultimo artigo/template que preparo nesta ocasião",
+        "artauthor": "Author: Guilherme Viegas",
+        "artdate": "Date: 01/09/2020"
+    }
+]
